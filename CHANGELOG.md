@@ -3,6 +3,12 @@ filebeat CHANGELOG
 
 This file is used to list changes made in each version of the filebeat cookbook.
 
+0.3.x
+-----
+
+- Sean Nolen - #33 added multiline support for LWRP
+- Sean Nolen - #30 fixed rubocop error
+
 0.2.7
 -----
 
